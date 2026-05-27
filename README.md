@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=220&section=header&text=MEIRZHAN%20TLEUBAEV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20QA%20%7C%20API%20Testing%20%7C%20AppSec%20Path&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=220&section=header&text=MEIRZHAN%20TLEUBAEV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20QA%20%7C%20API%20Testing%20%7C%20Security&descSize=18&descAlignY=55" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Testing+software;API+Testing+%7C+SQL+%7C+Linux+%7C+Web+Security;Practical+artifacts+%3E+empty+theory" />
 
@@ -19,9 +19,8 @@
 
 
 <p align="center">
-  Junior QA candidate focused on API testing, SQL validation, Linux basics, and web security fundamentals.
-  <br/>
-  Building practical QA artifacts: test cases, bug reports, API checks, SQL queries, and security reports.
+Junior QA candidate focused on API testing, SQL validation, Linux, and web security fundamentals.  
+I document practical work through test cases, bug reports, API checks, SQL queries, and security reports.
 </p>
 
 ---
