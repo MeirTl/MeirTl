@@ -34,8 +34,12 @@ Tools
 
 <br/><br/>
 
-SOC Casebook ·
-Detection Lab ·
-Triage CLI
+<p align="center">
+  <a href="https://github.com/MeirTl/soc-investigation-casebook"><b>SOC Casebook</b></a>
+  ·
+  <a href="https://github.com/MeirTl/detection-engineering-lab"><b>Detection Lab</b></a>
+  ·
+  <a href="https://github.com/MeirTl/soc-triage-cli"><b>Triage CLI</b></a>
+</p>
 
 </div>
