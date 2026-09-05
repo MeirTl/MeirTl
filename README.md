@@ -8,7 +8,7 @@
 
 <p align="center">
 Second-year Cybersecurity student at IITU, preparing for a Junior SOC / Blue Team role.<br/>
-I work with security logs, investigate alerts and document evidence, false positives and escalation steps.
+In my labs, I analyze security logs, investigate alerts and document evidence, false positives and escalation steps.
 </p>
 
 <div align="center">
